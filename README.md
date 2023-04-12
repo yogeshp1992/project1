@@ -37,3 +37,7 @@ aggregproject1    (project root)
 2. Complete docker installation 
 3. Login to Docker Hub and click on Account Setting → Security → New Access
 Token
+4. Copy and store the access token at some safe place.
+5. Go to https://github.com/prashant5nov/project1/ and fork project into your account
+6. With above step project repository will reflect into your account
+7. `git clone <https-url-copied-from-git-repo>`
